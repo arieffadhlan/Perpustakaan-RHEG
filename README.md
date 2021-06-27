@@ -2,7 +2,7 @@ Tugas Besar Mata Kuliah Pemrograman Berorientasi Objek
 
 Judul Tugas : Program Perpustakaan RHEG
 
-Fitur : 1. Authentication (Login dan Register)
+Fitur : 1. Authentication (Login dan Register) <br>
         2. Authorization
         3. Add book
         4. Borrow a book
